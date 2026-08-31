@@ -193,8 +193,5 @@ where GRADE >=2;
 
 <img width="1096" height="60" alt="DBMS 2" src="https://github.com/user-attachments/assets/100d0f2d-46b7-4379-a727-d0d23e793d41" />
 
-## Result:
-
-Thus, the SQL queries to implement DML commands have been executed successfully.
 ## RESULT
 Thus, the SQL queries to implement DML commands have been executed successfully.
